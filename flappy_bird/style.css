@@ -1,0 +1,13 @@
+#cover{
+    background-color: white;
+    position: absolute;
+}
+body{
+    background-color: black;
+}
+#score{
+    position:absolute;
+}
+#Multiplier{
+    position:absolute;
+}
